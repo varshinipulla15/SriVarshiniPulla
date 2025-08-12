@@ -41,7 +41,6 @@ Anurag Group of Institutions, Hyderabad, India (2015–2019)
 Deploy pipelines, dodge failures! Play my DevOps-themed game:  
 
 [![Play Pipeline Runner](https://img.shields.io/badge/PLAY%20NOW-%2300B4D8?style=for-the-badge&logo=github&logoColor=white)](https://varshinipulla15.github.io/pipeline-runner)
-```
 
 ---
 
@@ -53,3 +52,4 @@ Deploy pipelines, dodge failures! Play my DevOps-themed game:
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=100&section=footer)
+
