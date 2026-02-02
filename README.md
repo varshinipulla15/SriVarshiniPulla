@@ -25,8 +25,13 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
+### ⚙️ What You’ll Find in My Repos  
 
-
+- CI/CD pipelines for **C++ and cross-compiled Linux builds**  
+- **Bazel + CMake** integrations and reproducible build setups  
+- **Terraform / Ansible** scripts for infrastructure automation  
+- **On-prem and cloud CI runner provisioning**  
+- Automation scripts for **build, packaging, and release workflows**  
 ---
 
 ### 🎓 Education  
