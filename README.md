@@ -3,21 +3,25 @@
 
 ## 👋 Hi there, I’m Sri Varshini Pulla
 
-🚀 **DevOps Engineer** | AWS | CI/CD | Infrastructure as Code | Cloud Automation  
+🚀 **Platform Engineer (CI/CD & Build Systems for Embedded Software)** | Devops Engineer | AWS | CI/CD | Infrastructure as Code | Cloud Automation  
 
-> *"Automation is not just about efficiency — it’s about unlocking creativity."*  
+> *"Great platforms make complex systems boring to build, test, and ship."*  
 
 ---
 
 ### 🔧 Tech Stack  
+![Bazel](https://img.shields.io/badge/Bazel-%2343A047.svg?style=for-the-badge&logo=bazel&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%2300647F.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![GitLab%20CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
@@ -37,10 +41,7 @@ Anurag Group of Institutions, Hyderabad, India (2015–2019)
 
 ---
 
-### 🎮 Fun Zone  
-Deploy pipelines, dodge failures! Play my DevOps-themed game:  
 
-[![Play Pipeline Runner](https://img.shields.io/badge/PLAY%20NOW-%2300B4D8?style=for-the-badge&logo=github&logoColor=white)](https://varshinipulla15.github.io/pipeline-runner)
 
 ---
 
