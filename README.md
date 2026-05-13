@@ -1,61 +1,129 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=200&section=header&text=Sri%20Varshini%20Pulla&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<h1 align="center">SriVarshini Pulla</h1>
+<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Platform Engineering</h3>
 
-## 👋 Hi there, I’m Sri Varshini Pulla
-
-🚀 **Platform Engineer (CI/CD & Build Systems for Embedded Software)** | Devops Engineer | AWS | CI/CD | Infrastructure as Code | Cloud Automation  
-
-> *"Great platforms make complex systems boring to build, test, and ship."*  
+<p align="center">
+Based in Germany | Open to DevOps / Cloud / Platform Engineering Opportunities
+</p>
 
 ---
 
-### 🔧 Tech Stack  
-![Bazel](https://img.shields.io/badge/Bazel-%2343A047.svg?style=for-the-badge&logo=bazel&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%2300647F.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![GitLab%20CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+## About Me
 
----
-### ⚙️ What You’ll Find in My Repos  
+DevOps Engineer with 5+ years of experience in cloud infrastructure, CI/CD automation, production support, and platform engineering.
 
-- CI/CD pipelines for **C++ and cross-compiled Linux builds**  
-- **Bazel + CMake** integrations and reproducible build setups  
-- **Terraform / Ansible** scripts for infrastructure automation  
-- **On-prem and cloud CI runner provisioning**  
-- Automation scripts for **build, packaging, and release workflows**  
----
+Core expertise includes:
 
-### 🎓 Education  
-**B.Tech in Information Technology**  
-Anurag Group of Institutions, Hyderabad, India (2015–2019)  
+- CI/CD Pipeline Automation  
+- Cloud Infrastructure & Migration  
+- Kubernetes & Container Orchestration  
+- Infrastructure as Code  
+- Monitoring & Observability  
+- Production Support & Incident Management  
+
+Currently building cloud-native automation solutions and deepening expertise in platform engineering, observability and infrastructure automation.
 
 ---
 
-### 🏆 Achievements  
-- 🥇 **Best Project Award** – Infosys, Oct 2023  
-- 🌟 **Best Employee Appreciation** – Infosys, Mar 2023  
+##  Tech Stack
+
+###  Cloud
+
+Amazon Web Services (EC2, S3, IAM, VPC, CloudWatch, Route 53)
+
+###  CI/CD
+
+GitHub Actions • Jenkins • GitLab CI/CD • Argo CD
+
+### Version Control
+
+Git • GitHub • Bitbucket
+
+###  Containers & Orchestration
+
+Docker • Kubernetes • Helm
+
+###  Infrastructure as Code
+
+Terraform • Ansible
+
+###  Monitoring
+
+Prometheus • Grafana • ELK Stack
+
+###  Scripting
+
+Bash • Python • PowerShell
 
 ---
 
+##  Featured Project
 
+### Cloud-Native DevOps Pipeline
+
+* Designed and deployed containerized applications using Docker and Kubernetes
+* Built end-to-end CI/CD workflows using GitHub Actions and Helm
+* Provisioned AWS infrastructure using Terraform
+* Implemented monitoring and observability using Prometheus, Grafana, and ELK Stack
+
+Repository: https://github.com/varshinipulla15/automated-app-deployment
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivarshini)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varshinipulla3@gmail.com)  
+##  Professional Highlights
+
+* 5+ years in DevOps & Production Support
+* Migrated on-premises workloads to AWS
+* Built reusable CI/CD pipeline frameworks
+* Automated infrastructure provisioning
+* Implemented centralized logging and monitoring
+
+---
+## Featured Repositories
+
+### Cloud-Native Application Deployment
+
+Repository: https://github.com/varshinipulla15/automated-app-deployment
+
+End-to-end DevOps project implementing containerized application deployment using Docker, Kubernetes, Helm, GitHub Actions, and monitoring integrations.
+
+**Tech Stack:** Docker • Kubernetes • Helm • GitHub Actions • Prometheus • Grafana
 
 ---
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00B4D8&height=100&section=footer)
+### Infrastructure as Code
 
+Repository: https://github.com/varshinipulla15/IAC
+
+Infrastructure automation project focused on provisioning and managing cloud resources using Terraform and infrastructure best practices.
+
+**Tech Stack:** Terraform • AWS • Infrastructure Automation
+
+---
+
+### Automation Scripts
+
+Repository: https://github.com/varshinipulla15/AutomationScripts
+
+Collection of automation scripts for operational tasks, deployment workflows, system administration, and infrastructure management.
+
+**Tech Stack:** Python • Bash • Linux Automation
+
+---
+
+### Build and Cloud Engineering
+
+Repository: https://github.com/varshinipulla15/cpp-cmake-aws
+
+Experimentation with build systems, cloud integration, and deployment workflows for platform engineering use cases.
+
+**Tech Stack:** CMake • AWS • Build Automation
+
+---
+
+##  Connect With Me
+
+ LinkedIn: https://www.linkedin.com/in/srivarshinipulla
+ 
+ Email: [varshinipulla3@gmail.com](mailto:varshinipulla3@gmail.com)
+ 
+ Location: Germany
